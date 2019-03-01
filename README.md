@@ -6,7 +6,7 @@ Dépôt pour les [Ateliers Archéomatiques 2018](http://isa.univ-tours.fr/spip.p
 Présentation et jeu de données de **Julie Gravier** (Université Paris I - Panthéon-Sorbonne/UMR 8504 Géographie-cités)
 
 ## Notes: 
-Le dépôt ce situe sur le github de l'auteur => https://github.com/JGravier/sitRada/tree/master/AA2018
+Le dépôt est situé sur le github de l'auteur => https://github.com/JGravier/sitRada/tree/master/AA2018
 
 ## Résumé:
 
